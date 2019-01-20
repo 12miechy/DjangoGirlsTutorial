@@ -1,5 +1,17 @@
-*.xml
+### note ###
+note.txt
 
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+### PyCharm ###
+*.xml
 !/codeStyleSettings.xml
 !/copyright/*.xml
 !/fileColors.xml
@@ -15,5 +27,3 @@
 
 !/templateLanguages.xml
 !/vcs.xml
-
-note.txt
