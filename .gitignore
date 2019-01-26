@@ -5,10 +5,14 @@ note.txt
 *.log
 *.pot
 *.pyc
+*~
 __pycache__/
+myvenv
 local_settings.py
 db.sqlite3
 media
+/static
+.DS_Store
 
 ### PyCharm ###
 *.xml
